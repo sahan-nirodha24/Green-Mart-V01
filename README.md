@@ -12,5 +12,6 @@ Our Group Members
 
 5) ITBNM-2211-0181   M.P.S.J Rathnayaka
 
-      Screen Shots Of The Green Mart Website
+
+Screen Shots Of The Green Mart Website
 
