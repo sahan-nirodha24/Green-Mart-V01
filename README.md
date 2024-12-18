@@ -1,4 +1,4 @@
-## This Is Our Web Application Development Module Group Project
+## This Is Our Web Application Development Module Mini Group Project
 
 Our Group Members  
 
